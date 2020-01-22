@@ -1,3 +1,5 @@
+### Alcance.
+
 ## Qué es?
 
 Treatment Tracer es un aplicativo desarrollado específicamente para el ámbito sanitario y destinado a los enfermos crónicos, o cuidadores de los mismos, que requieran en su día a día la adherencia a un tratamiento o unas rutinas médicas.
